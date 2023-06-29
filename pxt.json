@@ -4,7 +4,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "Hello World!": "github:tcsdragon/hello-world#8f15cf176fd8b93a03a31108064cd74a086bafb4"
     },
     "files": [
         "main.blocks",
